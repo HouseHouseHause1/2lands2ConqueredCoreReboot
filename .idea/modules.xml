@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2lands2ConqueredCore.iml" filepath="$PROJECT_DIR$/.idea/2lands2ConqueredCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeeesExploitFixer-3.0-main/LeeesExploitFixer.iml" filepath="$PROJECT_DIR$/LeeesExploitFixer-3.0-main/LeeesExploitFixer.iml" />
+    </modules>
+  </component>
+</project>
