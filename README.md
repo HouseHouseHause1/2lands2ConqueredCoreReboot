@@ -1,4 +1,4 @@
-# 2L2C CoreReboot is a fork of Leee's LeeesExploitFixer don't ask shit lmao
+# 2L2C CoreReboot is a fork of Leee's LeeesExploitFixer
 
 #### I plan to keep this outdated not patching the latest exploits anymore
 ___
